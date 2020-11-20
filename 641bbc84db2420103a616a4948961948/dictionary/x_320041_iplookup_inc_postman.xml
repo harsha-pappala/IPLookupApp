@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Inc_Postman" max_length="40" name="x_320041_iplookup_inc_postman" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_caller" label="Caller" max_length="40" name="u_caller" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_short_description" label="Short Description" max_length="40" name="u_short_description" type="string"/>
+    </element>
+</database>
